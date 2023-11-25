@@ -4,13 +4,27 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 25 Nov 2023 18:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 20:07:30 GMT</lastBuildDate>
     <item>
-      <title>听：人质交易问题、普华永道裁员等</title>
+      <title>哈马斯称将释放早先推迟释放的人质</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-25/hamas-says-it-will-release-prisoners-following-earlier-delay</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-25/hamas-says-it-will-release-prisoners-following-earlier-delay</guid>
+      <pubDate>Sat, 25 Nov 2023 19:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国石油公司在出口问题上出现分歧后退出塞内加尔天然气田</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-25/bp-exits-gas-field-in-senegal-after-disagreement-over-exports</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-25/bp-exits-gas-field-in-senegal-after-disagreement-over-exports</guid>
+      <pubDate>Sat, 25 Nov 2023 19:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>听：人质事件延误、"黑色星期五 "纪录等</title>
       <link>https://www.bloomberg.com/news/articles/2023-11-25/listen-hostages-latest-kyiv-attack-more</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-25/listen-hostages-latest-kyiv-attack-more</guid>
-      <pubDate>Sat, 25 Nov 2023 17:48:38 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 18:46:36 GMT</pubDate>
     </item>
     <item>
       <title>以色列与哈马斯达成协议，市场反弹：周六美国简报</title>
@@ -146,7 +160,7 @@
       <pubDate>Sat, 25 Nov 2023 12:39:00 GMT</pubDate>
     </item>
     <item>
-      <title>您的周末读物加沙战事因人质协议暂时停止</title>
+      <title>您的周末读物加沙战斗因人质协议暂时停止</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-11-25/bloomberg-weekend-reading-gaza-fighting-stops-for-now-on-hostage-deal</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-11-25/bloomberg-weekend-reading-gaza-fighting-stops-for-now-on-hostage-deal</guid>
@@ -165,20 +179,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-11-25/milei-s-softer-tone-shows-how-much-argentina-needs-china</guid>
       <pubDate>Sat, 25 Nov 2023 11:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞典央行行长特迪恩认为再次加息的可能性为五五开</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-25/riksbank-s-thedeen-sees-fifty-fifty-chance-of-another-rate-hike</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-25/riksbank-s-thedeen-sees-fifty-fifty-chance-of-another-rate-hike</guid>
-      <pubDate>Sat, 25 Nov 2023 11:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼日利亚中央银行计划进行全面改革以遏制通货膨胀</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-24/nigeria-central-bank-chief-vows-to-curb-inflation-steady-naira</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-24/nigeria-central-bank-chief-vows-to-curb-inflation-steady-naira</guid>
-      <pubDate>Sat, 25 Nov 2023 11:40:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
