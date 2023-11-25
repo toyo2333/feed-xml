@@ -4,7 +4,35 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 25 Nov 2023 02:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 03:38:42 GMT</lastBuildDate>
+    <item>
+      <title>以色列休战，哈马斯从加沙释放 24 名人质</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-24/hamas-releases-some-hostages-in-truce-deal-with-israel</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-24/hamas-releases-some-hostages-in-truce-deal-with-israel</guid>
+      <pubDate>Sat, 25 Nov 2023 03:15:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>新华社称中国开始在缅甸边境举行军事演习</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-25/china-begins-military-drills-along-myanmar-border-xinhua-says</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-25/china-begins-military-drills-along-myanmar-border-xinhua-says</guid>
+      <pubDate>Sat, 25 Nov 2023 02:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度工业崛起，尤洛消费大国：周六亚洲简报</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-25/india-stocks-shift-black-friday-yolo-consumers-saturday-asia-briefing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-25/india-stocks-shift-black-friday-yolo-consumers-saturday-asia-briefing</guid>
+      <pubDate>Sat, 25 Nov 2023 02:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾与澳大利亚在中国紧张局势下展开联合巡逻</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-25/philippines-australia-launch-joint-patrols-amid-china-tensions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-25/philippines-australia-launch-joint-patrols-amid-china-tensions</guid>
+      <pubDate>Sat, 25 Nov 2023 02:11:14 GMT</pubDate>
+    </item>
     <item>
       <title>国际货币基金组织（IMF）的格奥尔基耶娃与阿根廷的米莱伊讨论经济挑战</title>
       <link>https://www.bloomberg.com/news/articles/2023-11-25/imf-s-georgieva-argentina-s-milei-discussed-economic-challenges</link>
@@ -46,13 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-11-24/bloomberg-evening-briefing-us-intensifies-scrutiny-of-mideast-wealth-fund-deals</guid>
       <pubDate>Fri, 24 Nov 2023 23:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯从加沙释放 24 名人质，以色列停战保持稳定</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-24/hamas-releases-some-hostages-in-truce-deal-with-israel</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-24/hamas-releases-some-hostages-in-truce-deal-with-israel</guid>
-      <pubDate>Fri, 24 Nov 2023 22:53:04 GMT</pubDate>
     </item>
     <item>
       <title>阿根廷美元化是中期目标：卡普托</title>
@@ -158,27 +179,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-23/petrobras-hikes-five-year-business-plan-to-102-billion</guid>
       <pubDate>Fri, 24 Nov 2023 20:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周股市上涨，"恐惧指数 "创 2020 年新低：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-23/asia-stocks-set-to-open-mixed-as-dollar-oil-slip-markets-wrap</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-23/asia-stocks-set-to-open-mixed-as-dollar-oil-slip-markets-wrap</guid>
-      <pubDate>Fri, 24 Nov 2023 19:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧佩克+寻求解决会前产量争端，石油价格下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-23/latest-oil-market-news-and-analysis-for-friday-24-november</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-23/latest-oil-market-news-and-analysis-for-friday-24-november</guid>
-      <pubDate>Fri, 24 Nov 2023 19:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>信贷市场乐观，美国利差处于低位</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-24/optimismo-en-mercados-de-credito-diferenciales-eeuu-en-minimos</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-24/optimismo-en-mercados-de-credito-diferenciales-eeuu-en-minimos</guid>
-      <pubDate>Fri, 24 Nov 2023 19:11:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
