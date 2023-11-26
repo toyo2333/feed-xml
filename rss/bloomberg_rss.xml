@@ -4,7 +4,14 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 26 Nov 2023 02:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 04:09:11 GMT</lastBuildDate>
+    <item>
+      <title>马来西亚反对党领袖放弃卸任计划</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-26/malaysian-opposition-leader-scraps-plan-to-step-down-from-party</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-26/malaysian-opposition-leader-scraps-plan-to-step-down-from-party</guid>
+      <pubDate>Sun, 26 Nov 2023 03:03:35 GMT</pubDate>
+    </item>
     <item>
       <title>COP的肉类地图，市场反弹面临风险：周日亚洲简报</title>
       <link>https://www.bloomberg.com/news/articles/2023-11-26/cop-s-meat-roadmap-em-market-rally-risks-sunday-asia-briefing</link>
@@ -172,13 +179,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-24/guy-hands-s-former-care-home-business-to-pay-major-dividend</guid>
       <pubDate>Sat, 25 Nov 2023 13:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚果选举负责人誓言在 2.3 亿美元资金缺口中按时投票</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-24/congo-election-head-vows-on-time-vote-despite-230-million-hole</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-24/congo-election-head-vows-on-time-vote-despite-230-million-hole</guid>
-      <pubDate>Sat, 25 Nov 2023 13:30:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
