@@ -4,7 +4,28 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 01 Dec 2023 02:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 04:10:01 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-01/barclays-citi-raise-india-s-growth-closer-to-7-after-gdp-beat</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-01/barclays-citi-raise-india-s-growth-closer-to-7-after-gdp-beat</guid>
+      <pubDate>Fri, 01 Dec 2023 03:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-01/hong-kong-to-end-stock-market-closures-during-typhoons-from-july</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-01/hong-kong-to-end-stock-market-closures-during-typhoons-from-july</guid>
+      <pubDate>Fri, 01 Dec 2023 03:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-01/xi-takes-flurry-of-small-steps-to-open-china-after-biden-thaw</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-01/xi-takes-flurry-of-small-steps-to-open-china-after-biden-thaw</guid>
+      <pubDate>Fri, 01 Dec 2023 02:50:23 GMT</pubDate>
+    </item>
     <item>
       <title></title>
       <link>https://www.bloomberg.com/news/articles/2023-12-01/meta-says-there-s-been-no-downside-to-sharing-its-ai-technology</link>
@@ -91,6 +112,13 @@
     </item>
     <item>
       <title></title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-01/uk-tax-cuts-do-little-to-ease-pessimism-among-uk-firms-iod-says</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-01/uk-tax-cuts-do-little-to-ease-pessimism-among-uk-firms-iod-says</guid>
+      <pubDate>Fri, 01 Dec 2023 00:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
       <link>https://www.bloomberg.com/news/features/2023-12-01/oil-prices-face-wild-swings-with-bot-traders-driving-the-market</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/features/2023-12-01/oil-prices-face-wild-swings-with-bot-traders-driving-the-market</guid>
@@ -151,34 +179,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-30/foreigners-sell-china-stocks-for-fourth-month-in-record-streak</guid>
       <pubDate>Thu, 30 Nov 2023 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-30/tiktok-ban-in-montana-blocked-by-federal-judge</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-30/tiktok-ban-in-montana-blocked-by-federal-judge</guid>
-      <pubDate>Thu, 30 Nov 2023 23:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-11-30/bloomberg-evening-briefing-fed-s-economic-glide-path-comes-into-view</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-11-30/bloomberg-evening-briefing-fed-s-economic-glide-path-comes-into-view</guid>
-      <pubDate>Thu, 30 Nov 2023 23:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-30/yaccarino-s-memo-to-x-staff-calls-musk-candid-and-profound</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-30/yaccarino-s-memo-to-x-staff-calls-musk-candid-and-profound</guid>
-      <pubDate>Thu, 30 Nov 2023 23:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-30/latest-oil-market-news-and-analysis-for-dec-1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-30/latest-oil-market-news-and-analysis-for-dec-1</guid>
-      <pubDate>Thu, 30 Nov 2023 23:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
