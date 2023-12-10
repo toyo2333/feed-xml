@@ -4,7 +4,56 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description></description>
-    <lastBuildDate>Sun, 10 Dec 2023 06:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 09:13:34 GMT</lastBuildDate>
+    <item>
+      <title>中国和菲律宾船只在第二天发生冲突</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/hundreds-from-philippines-set-sail-as-tensions-flare-with-china</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/hundreds-from-philippines-set-sail-as-tensions-flare-with-china</guid>
+      <pubDate>Sun, 10 Dec 2023 06:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arm首席执行官担心人类可能会失去对人工智能的控制</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/arm-ceo-rene-haas-has-qualms-over-ai-but-sees-upside-for-chipmaker</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/arm-ceo-rene-haas-has-qualms-over-ai-but-sees-upside-for-chipmaker</guid>
+      <pubDate>Sun, 10 Dec 2023 06:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏纳克从“Dishy Rishi”到“Dr.死亡面临英国听证会</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/sunak-s-shift-from-dishy-rishi-to-dr-death-faces-uk-hearing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/sunak-s-shift-from-dishy-rishi-to-dr-death-faces-uk-hearing</guid>
+      <pubDate>Sun, 10 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>饱受战争蹂躏的顿涅茨克矿工足球俱乐部寻求沙特阿拉伯的财政支持</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/war-torn-football-club-shakhtar-looks-to-saudi-arabia-for-financial-boost</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/war-torn-football-club-shakhtar-looks-to-saudi-arabia-for-financial-boost</guid>
+      <pubDate>Sun, 10 Dec 2023 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>央行盛宴，韩国梦想：周日亚洲简报</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/central-bank-fest-south-korean-dreams-sunday-asia-briefing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/central-bank-fest-south-korean-dreams-sunday-asia-briefing</guid>
+      <pubDate>Sun, 10 Dec 2023 05:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>不仅仅是乌克兰和加沙：世界各地的战争都在加剧</title>
+      <link>https://www.bloomberg.com/opinion/articles/2023-12-10/it-s-not-just-ukraine-and-gaza-war-is-on-the-rise-everywhere</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2023-12-10/it-s-not-just-ukraine-and-gaza-war-is-on-the-rise-everywhere</guid>
+      <pubDate>Sun, 10 Dec 2023 05:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度在道路上部署 50,000 辆电动巴士的计划获得美国支持</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-10/cop28-india-s-plan-for-50-000-e-buses-on-its-roads-gets-us-support</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-10/cop28-india-s-plan-for-50-000-e-buses-on-its-roads-gets-us-support</guid>
+      <pubDate>Sun, 10 Dec 2023 04:57:40 GMT</pubDate>
+    </item>
     <item>
       <title>必和必拓工人考虑在澳大利亚一些矿山采取罢工行动：AFR</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-10/bhp-workers-consider-strike-action-at-some-australian-mines-afr</link>
@@ -20,13 +69,6 @@
       <pubDate>Sun, 10 Dec 2023 03:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>随着与中国的紧张局势加剧，数百名菲律宾人启航</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-10/hundreds-from-philippines-set-sail-as-tensions-flare-with-china</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-10/hundreds-from-philippines-set-sail-as-tensions-flare-with-china</guid>
-      <pubDate>Sun, 10 Dec 2023 02:57:30 GMT</pubDate>
-    </item>
-    <item>
       <title>宾夕法尼亚大学领导人在种族灭绝反应和校友压力后下台</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-09/university-of-pennsylvania-president-quits-in-antisemitism-row</link>
       <description><![CDATA[]]></description>
@@ -34,7 +76,7 @@
       <pubDate>Sun, 10 Dec 2023 02:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>苹果关闭在 Android 上启用 iMessage 的第三方应用程序</title>
+      <title>Apple 关闭了在 Android 上启用 iMessage 的第三方应用程序</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-10/apple-shutters-third-party-apps-that-enabled-imessage-on-android</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-10/apple-shutters-third-party-apps-that-enabled-imessage-on-android</guid>
@@ -172,48 +214,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-09/ubs-taps-jpmorgan-s-rueger-as-co-head-of-equity-capital-markets</guid>
       <pubDate>Sat, 09 Dec 2023 17:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴拿马矿场关闭后，第一量子面临不确定的未来</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-12-09/first-quantum-faces-uncertain-future-after-panama-mine-shutdown</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-12-09/first-quantum-faces-uncertain-future-after-panama-mine-shutdown</guid>
-      <pubDate>Sat, 09 Dec 2023 16:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候活动人士在联合国蓝区举行迄今为止最大规模的 COP28 抗议活动</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-09/climate-activists-hold-biggest-cop28-protest-yet-in-un-blue-zone</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-09/climate-activists-hold-biggest-cop28-protest-yet-in-un-blue-zone</guid>
-      <pubDate>Sat, 09 Dec 2023 15:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>仍然热门的工作和医学里程碑：周六美国简报会</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-09/bloomberg-news-saturday-briefing</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-09/bloomberg-news-saturday-briefing</guid>
-      <pubDate>Sat, 09 Dec 2023 15:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>您一定想听一场新技术革命</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-12-09/we-found-the-best-gear-and-gadget-gifts-for-christmas-and-2023-holidays</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-12-09/we-found-the-best-gear-and-gadget-gifts-for-christmas-and-2023-holidays</guid>
-      <pubDate>Sat, 09 Dec 2023 15:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>决定性时刻到来，价值 4 万亿美元的股票反弹岌岌可危</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-09/stock-market-s-last-decisive-moment-of-2023-fuels-a-wall-of-worry</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-09/stock-market-s-last-decisive-moment-of-2023-fuels-a-wall-of-worry</guid>
-      <pubDate>Sat, 09 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valor 称巴西哈达德预计降息 50 点</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-09/brazil-s-haddad-expects-50-point-interest-rate-cut-valor-says</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-09/brazil-s-haddad-expects-50-point-interest-rate-cut-valor-says</guid>
-      <pubDate>Sat, 09 Dec 2023 14:53:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
