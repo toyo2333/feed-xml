@@ -4,65 +4,128 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 23 Dec 2023 15:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 18:18:22 GMT</lastBuildDate>
     <item>
-      <title>我今年最难忘的三次旅行</title>
+      <title>中国对电子游戏的限制在全球市场引发反响</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-22/prosus-falls-by-record-as-tencent-slumps-on-china-gaming-curbs</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-22/prosus-falls-by-record-as-tencent-slumps-on-china-gaming-curbs</guid>
+      <pubDate>Sat, 23 Dec 2023 16:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着繁华城市门店的兴起，奢侈品中间商日益衰落</title>
+      <link>https://www.bloomberg.com/news/newsletters/2023-12-23/bustling-city-stores-hurt-luxury-middlemen-farfetch-and-matchesfashion</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2023-12-23/bustling-city-stores-hurt-luxury-middlemen-farfetch-and-matchesfashion</guid>
+      <pubDate>Sat, 23 Dec 2023 16:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜耳称其在加州赢得农达除草剂致癌审判</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/germany-s-bayer-says-it-won-a-roundup-cancer-trial-in-california</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/germany-s-bayer-says-it-won-a-roundup-cancer-trial-in-california</guid>
+      <pubDate>Sat, 23 Dec 2023 16:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>听闻：人工智能融资、3D 打印交易、佩尔茨，更多</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/listen-openai-funding-trump-edge-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/listen-openai-funding-trump-edge-more</guid>
+      <pubDate>Sat, 23 Dec 2023 15:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街赢得了竞标，将竞业禁止条款留在纽约</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-22/wall-street-wins-bid-to-keep-non-compete-clauses-in-new-york</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-22/wall-street-wins-bid-to-keep-non-compete-clauses-in-new-york</guid>
+      <pubDate>Sat, 23 Dec 2023 15:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳米维度出价 11 亿美元收购 Stratasys</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/nano-dimension-offers-to-buy-stratasys-in-1-1-billion-deal</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/nano-dimension-offers-to-buy-stratasys-in-1-1-billion-deal</guid>
+      <pubDate>Sat, 23 Dec 2023 15:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京自由派批评者选择不参加总统竞选</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/putin-s-liberal-critic-opts-not-to-run-in-presidential-campaign</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/putin-s-liberal-critic-opts-not-to-run-in-presidential-campaign</guid>
+      <pubDate>Sat, 23 Dec 2023 15:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国股票经纪人 Panmure、Liberum 谈判拟合并</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/uk-stockbrokers-panmure-liberum-in-talks-about-merger-times</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/uk-stockbrokers-panmure-liberum-in-talks-about-merger-times</guid>
+      <pubDate>Sat, 23 Dec 2023 14:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄卡在尼日利亚解除加密货币禁令后寻求兑换牌照</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-23/yellow-card-seeks-exchange-license-after-nigeria-lifts-crypto-ban</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-23/yellow-card-seeks-exchange-license-after-nigeria-lifts-crypto-ban</guid>
+      <pubDate>Sat, 23 Dec 2023 14:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>晚间简报：据报道，在加沙战争中，20,000 名巴勒斯坦人遇难</title>
+      <link>https://www.bloomberg.com/news/newsletters/2023-12-22/bloomberg-evening-briefing-over-20-000-palestinians-reported-killed-in-gaza-war</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2023-12-22/bloomberg-evening-briefing-over-20-000-palestinians-reported-killed-in-gaza-war</guid>
+      <pubDate>Sat, 23 Dec 2023 14:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的旅行专家今年所从事的意义最重大的三次出行</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-23/pursuits-weekly-how-to-take-more-meaningful-trips-as-a-tourist-in-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-23/pursuits-weekly-how-to-take-more-meaningful-trips-as-a-tourist-in-2024</guid>
       <pubDate>Sat, 23 Dec 2023 14:19:31 GMT</pubDate>
     </item>
     <item>
-      <title>聆听：人工智能、华尔街竞业限制，更多</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-23/listen-openai-funding-trump-edge-more</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-23/listen-openai-funding-trump-edge-more</guid>
-      <pubDate>Sat, 23 Dec 2023 13:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼日利亚将购买被免职央行行长收购的银行</title>
+      <title>尼日利亚将购买被罢免央行行长买入的银行</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/nigeria-to-buy-banks-purchased-by-ousted-central-bank-governor</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/nigeria-to-buy-banks-purchased-by-ousted-central-bank-governor</guid>
       <pubDate>Sat, 23 Dec 2023 13:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>加密货币忠实者们已进入欢乐假期</title>
+      <title>加密货币忠实爱好者的快乐节日</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-23/crypto-believers-vindicated-as-bitcoin-goes-up-exchanges-fall-down-lqi2iu1g</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-23/crypto-believers-vindicated-as-bitcoin-goes-up-exchanges-fall-down-lqi2iu1g</guid>
       <pubDate>Sat, 23 Dec 2023 13:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>旧时的一则圣诞故事：黑人圣诞老人</title>
+      <title> давняя рождественская сказка: Санта-Клаус был чернокожим</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-23/a-christmas-tale-from-long-ago-santa-claus-was-black</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-23/a-christmas-tale-from-long-ago-santa-claus-was-black</guid>
       <pubDate>Sat, 23 Dec 2023 13:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>科学突破点是否有所减少？</title>
+      <title>科学突破是否已经下降？</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-23/have-scientific-breakthroughs-declined</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-23/have-scientific-breakthroughs-declined</guid>
       <pubDate>Sat, 23 Dec 2023 13:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>德国煤炭退出计划不切实际，游说人员称</title>
+      <title>德国煤炭淘汰计划不切实际，游说部门主管称</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/germany-s-coal-phase-out-plan-is-unrealistic-lobby-chief-says</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/germany-s-coal-phase-out-plan-is-unrealistic-lobby-chief-says</guid>
       <pubDate>Sat, 23 Dec 2023 12:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>你的周末读物：美国通胀之战接近胜利</title>
+      <title>周末读物：美国通胀战接近胜利</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-23/bloomberg-weekend-reading-the-us-inflation-fight-nears-victory</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-23/bloomberg-weekend-reading-the-us-inflation-fight-nears-victory</guid>
       <pubDate>Sat, 23 Dec 2023 12:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>欧伦因 LNG 争执向风险投资全球提交仲裁案</title>
+      <title>就液化天然气争端，欧伦提交针对风险全球的仲裁案</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/poland-s-orlen-files-arbitration-case-against-venture-global-in-lng-spat</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/poland-s-orlen-files-arbitration-case-against-venture-global-in-lng-spat</guid>
@@ -76,14 +139,14 @@
       <pubDate>Sat, 23 Dec 2023 11:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>欧佩克国家在安哥拉退出后重申对组织的承诺</title>
+      <title>安哥拉退出后，欧佩克国家重申对该组织的承诺</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/opec-nations-affirm-commitment-to-group-after-angola-s-exit</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/opec-nations-affirm-commitment-to-group-after-angola-s-exit</guid>
       <pubDate>Sat, 23 Dec 2023 11:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>几内亚燃料库大火后恢复汽油分配</title>
+      <title>几内亚燃料库火灾后恢复汽油分配</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/guinea-resumes-distribution-of-gasoline-after-fuel-depot-fire</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/guinea-resumes-distribution-of-gasoline-after-fuel-depot-fire</guid>
@@ -97,193 +160,130 @@
       <pubDate>Sat, 23 Dec 2023 10:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士信贷前首席执行官蒂亚姆寻求击败科特迪瓦执政党</title>
+      <title>前瑞士信贷首席执行官蒂姆试图击败科特迪瓦执政党</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/ex-credit-suisse-ceo-thiam-seeks-to-unseat-ivorian-ruling-party</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/ex-credit-suisse-ceo-thiam-seeks-to-unseat-ivorian-ruling-party</guid>
       <pubDate>Sat, 23 Dec 2023 10:20:02 GMT</pubDate>
     </item>
     <item>
-      <title>乌干达因新冠疫情给予奥兰多公司两年石油业务延期</title>
+      <title>乌干达受疫情影响向奥兰托石油公司延长两年石油开采期限</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/uganda-gives-oranto-two-year-oil-extension-due-to-covid-pandemic</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/uganda-gives-oranto-two-year-oil-extension-due-to-covid-pandemic</guid>
       <pubDate>Sat, 23 Dec 2023 10:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>英国海事部门接到关于印度海岸附近船只遭遇袭击的报告</title>
+      <title>英国船运机构收到一份有关在印度海岸附近一艘船遇袭的报告</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/uk-navy-receives-report-of-attack-on-ship-off-indian-coast</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/uk-navy-receives-report-of-attack-on-ship-off-indian-coast</guid>
       <pubDate>Sat, 23 Dec 2023 10:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>绘制全球经济图景：美国通胀降温，日本央行维持利率不变</title>
+      <title>剖析全球经济：美国通胀降温，日本央行按兵不动</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/world-economy-latest-us-inflation-softens-boj-sticks-with-negative-rates</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/world-economy-latest-us-inflation-softens-boj-sticks-with-negative-rates</guid>
       <pubDate>Sat, 23 Dec 2023 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>伦纳德·格林将以 32 亿英镑估值收购 Iris 软件股份</title>
+      <title>莱昂纳德·格林以 32 亿英镑的价值买入 Iris 软件股份</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/leonard-green-to-buy-iris-software-stake-at-3-2-billion-value</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/leonard-green-to-buy-iris-software-stake-at-3-2-billion-value</guid>
       <pubDate>Sat, 23 Dec 2023 08:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟对民粹主义热衷或致英国染毒</title>
+      <title>欧盟对民粹主义的热情或会感染英国</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-23/uk-politics-the-eu-s-enthusiasm-for-populism-may-infect-britain</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-23/uk-politics-the-eu-s-enthusiasm-for-populism-may-infect-britain</guid>
       <pubDate>Sat, 23 Dec 2023 07:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>税务局追查更多英国企业拖欠债务</title>
+      <title>税务局追究更多欠债未还的英国公司</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/tax-authority-hmrc-chases-more-uk-companies-over-unpaid-debts</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/tax-authority-hmrc-chases-more-uk-companies-over-unpaid-debts</guid>
       <pubDate>Sat, 23 Dec 2023 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>尼日利亚允许银行为加密公司开设账户：《商业日》</title>
+      <title>尼日利亚允许银行为加密公司开户：《商业日报》</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/nigeria-allows-banks-to-open-accounts-for-cryptocurrency-firms</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/nigeria-allows-banks-to-open-accounts-for-cryptocurrency-firms</guid>
       <pubDate>Sat, 23 Dec 2023 05:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>普京击败西方国家的武器是谎言，他正在赢</title>
+      <title>普京的击败西方的武器是谎言。他胜了。</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-23/new-cold-war-between-us-russia-china-is-democracy-vs-autocracy</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-23/new-cold-war-between-us-russia-china-is-democracy-vs-autocracy</guid>
       <pubDate>Sat, 23 Dec 2023 05:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>埃尔多安任命加密货币专家进入央行货币委员会</title>
+      <title>埃尔多安任命加密货币教授为央行货币委员会</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/erdogan-hires-a-crypto-asset-lecturer-to-the-central-bank-s-rate-setting-board</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/erdogan-hires-a-crypto-asset-lecturer-to-the-central-bank-s-rate-setting-board</guid>
       <pubDate>Sat, 23 Dec 2023 04:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶第三高塔以低于 2014 年价格 45% 的价格出售</title>
+      <title>洛杉矶第三高建筑以低于 2014 年价格 45% 的价格售出</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/la-s-third-tallest-tower-sells-for-45-below-2014-price</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/la-s-third-tallest-tower-sells-for-45-below-2014-price</guid>
       <pubDate>Sat, 23 Dec 2023 02:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>[闪亮登场：失窃的杰姆牌肉肠车在芝加哥郊外被找回啦]</title>
+      <title>急速肉类发现：偷来的超薄吉姆汽车在芝加哥郊外找到</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/fast-meat-found-stolen-slim-jim-car-recovered-outside-chicago</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/fast-meat-found-stolen-slim-jim-car-recovered-outside-chicago</guid>
       <pubDate>Fri, 22 Dec 2023 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>听听：最高法院特朗普，加沙问题决议等等</title>
+      <title>收听：最高法院特朗普，加沙决议等</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/listen-chancellor-interview-prague-shootings-more</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/listen-chancellor-interview-prague-shootings-more</guid>
       <pubDate>Fri, 22 Dec 2023 23:57:45 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街竞标保留纽约的禁止竞争条款胜出</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-22/wall-street-wins-bid-to-keep-non-compete-clauses-in-new-york</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-22/wall-street-wins-bid-to-keep-non-compete-clauses-in-new-york</guid>
-      <pubDate>Fri, 22 Dec 2023 23:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚创下可卡因缴获记录，黑帮走私价值 73 亿美元的非法药物</title>
+      <title>澳大利亚可卡因破获案件创纪录，团伙贩运价值 73 亿美元的非法药物</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/cocaine-busts-hit-record-as-australia-tackles-gangs-trafficking-illicit-drugs</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/cocaine-busts-hit-record-as-australia-tackles-gangs-trafficking-illicit-drugs</guid>
       <pubDate>Fri, 22 Dec 2023 23:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>比特币 2023 年 160% 反弹是对 ETF“需求冲击”的豪赌</title>
+      <title>比特币2023年160%的复苏，是ETF“需求冲击”的豪赌</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/bitcoin-btc-rallied-530-billion-in-2023-boosted-by-gamble-on-spot-etfs</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/bitcoin-btc-rallied-530-billion-in-2023-boosted-by-gamble-on-spot-etfs</guid>
       <pubDate>Fri, 22 Dec 2023 23:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>今日晚报：加沙战争中据报道共有 20000 名巴勒斯坦人死亡</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-12-22/bloomberg-evening-briefing-over-20-000-palestinians-reported-killed-in-gaza-war</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-12-22/bloomberg-evening-briefing-over-20-000-palestinians-reported-killed-in-gaza-war</guid>
-      <pubDate>Fri, 22 Dec 2023 23:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，OpenAI 正洽谈新一轮融资，估值 1000 亿美元或更多</title>
+      <title>据了解，OpenAI 正在洽谈新一轮融资，估值 1000 亿美元或更多</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation</guid>
       <pubDate>Fri, 22 Dec 2023 22:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>刚果选举机构为延误辩护，开始公布结果</title>
+      <title>刚果选举机构为推迟解释，开始公布结果</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/congo-electoral-body-defends-delays-begins-release-of-results</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/congo-electoral-body-defends-delays-begins-release-of-results</guid>
       <pubDate>Fri, 22 Dec 2023 22:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>美联储大幅调整政策后做空美元受到追捧</title>
+      <title>美联储重大转向后做空美元获青睐</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/speculators-add-to-short-dollar-bets-after-fed-s-great-pivot</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/speculators-add-to-short-dollar-bets-after-fed-s-great-pivot</guid>
       <pubDate>Fri, 22 Dec 2023 22:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>美墨边境铁路口岸关闭五天后重新开放</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-22/railroad-crossings-reopened-at-us-mexico-border-after-being-closed-five-days</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-22/railroad-crossings-reopened-at-us-mexico-border-after-being-closed-five-days</guid>
-      <pubDate>Fri, 22 Dec 2023 21:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌拒绝应用内购买费用变更，Epic诉讼显示收入受影响</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-22/google-rejected-play-store-fee-changes-for-hit-on-sales-epic-lawsuit-shows</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-22/google-rejected-play-store-fee-changes-for-hit-on-sales-epic-lawsuit-shows</guid>
-      <pubDate>Fri, 22 Dec 2023 21:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>对加元投下五年来最大赌注的对冲基金</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-22/hedge-funds-bet-most-against-canadian-dollar-in-almost-5-years</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-22/hedge-funds-bet-most-against-canadian-dollar-in-almost-5-years</guid>
-      <pubDate>Fri, 22 Dec 2023 21:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>股票延续牛市，软着陆言论一定程度推动市场：市场要闻综述</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-21/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-21/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Fri, 22 Dec 2023 21:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>选民开始注意，积极经济新闻或许正在渗透</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-12-22/good-economic-news-may-be-breaking-through-as-voters-take-notice</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-12-22/good-economic-news-may-be-breaking-through-as-voters-take-notice</guid>
-      <pubDate>Fri, 22 Dec 2023 21:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>普拉达以两座建筑物的购买扩大了其在纽约市的业务</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-22/prada-plots-major-nyc-expansion-with-pair-of-building-purchases</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-22/prada-plots-major-nyc-expansion-with-pair-of-building-purchases</guid>
-      <pubDate>Fri, 22 Dec 2023 21:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷彻到核心：彭博精选，美洲版</title>
-      <link>https://www.bloomberg.com/news/newsletters/2023-12-22/cool-to-the-core-the-bloomberg-close-americas-edition</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2023-12-22/cool-to-the-core-the-bloomberg-close-americas-edition</guid>
-      <pubDate>Fri, 22 Dec 2023 21:21:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
