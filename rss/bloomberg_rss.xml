@@ -4,27 +4,62 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 25 Dec 2023 03:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 06:20:33 GMT</lastBuildDate>
     <item>
-      <title>日本前首席发言人就金融调查接受问询，报纸称</title>
+      <title>梵蒂冈任命常驻教皇特使以改善和越南的关系</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-25/vatican-names-resident-papal-envoy-for-vietnam-as-ties-improve</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-25/vatican-names-resident-papal-envoy-for-vietnam-as-ties-improve</guid>
+      <pubDate>Mon, 25 Dec 2023 03:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国重罚全球性银行 2000 万美元，因非法裸卖空</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-25/korea-fines-global-banks-record-20-million-for-illegal-naked-short-selling</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-25/korea-fines-global-banks-record-20-million-for-illegal-naked-short-selling</guid>
+      <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏遭遇 800 亿美元抛售后，中国正在缓和其立场</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-25/china-is-softening-stance-on-gaming-after-80-billion-rout</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-25/china-is-softening-stance-on-gaming-after-80-billion-rout</guid>
+      <pubDate>Mon, 25 Dec 2023 02:06:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>日元走强，资产经理人转向看涨，因美联储和日本央行政策路径可能逆转</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-25/asset-managers-turn-bullish-on-yen-as-fed-boj-path-may-reverse</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-25/asset-managers-turn-bullish-on-yen-as-fed-boj-path-may-reverse</guid>
+      <pubDate>Mon, 25 Dec 2023 02:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>收听：以色列哈马斯、红海运输等</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-24/listen-trump-immunity-iran-attacks-spread-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-24/listen-trump-immunity-iran-attacks-spread-more</guid>
+      <pubDate>Mon, 25 Dec 2023 01:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>日必须进一步放宽武器出口规定，前防卫大臣表示</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-25/japan-must-further-ease-arms-export-rules-ex-defense-chief-says</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-25/japan-must-further-ease-arms-export-rules-ex-defense-chief-says</guid>
+      <pubDate>Mon, 25 Dec 2023 01:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>据媒体报道，日本前首席发言人在金融调查中受到讯问</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-25/japan-s-ex-top-spokesman-questioned-in-finance-probe-paper-says</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-25/japan-s-ex-top-spokesman-questioned-in-finance-probe-paper-says</guid>
       <pubDate>Mon, 25 Dec 2023 00:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>央行通过定价支持人民币让企业头疼</title>
+      <title>央行为人民币定盘价以示支持，让企业头疼</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-25/pboc-s-yuan-support-through-fixing-causes-headache-for-companies</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-25/pboc-s-yuan-support-through-fixing-causes-headache-for-companies</guid>
       <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>听：红海航运、加沙死亡事件，更多</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-24/listen-trump-immunity-iran-attacks-spread-more</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-24/listen-trump-immunity-iran-attacks-spread-more</guid>
-      <pubDate>Sun, 24 Dec 2023 23:52:14 GMT</pubDate>
     </item>
     <item>
       <title>聆听：红海航运、加沙死亡事件及更多</title>
@@ -41,49 +76,56 @@
       <pubDate>Sun, 24 Dec 2023 23:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国引导下，马士基准备在红海复航</title>
+      <title>马士基准备在美国主导的保护下重返红海</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/maersk-prepares-to-return-to-red-sea-under-us-led-protection</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/maersk-prepares-to-return-to-red-sea-under-us-led-protection</guid>
       <pubDate>Sun, 24 Dec 2023 20:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>达正牵头的财团上调对霍尔果斯自动化股票的收购报价</title>
+      <title>由大政领导的财团提高对华立自动化的报价</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/dazheng-led-consortium-boosts-offer-for-hollysys-automation</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/dazheng-led-consortium-boosts-offer-for-hollysys-automation</guid>
       <pubDate>Sun, 24 Dec 2023 20:27:35 GMT</pubDate>
     </item>
     <item>
-      <title>塞尔维亚选举抗议活动演变为暴力事件，武契奇呼吁保持冷静</title>
+      <title>塞尔维亚大选抗议演变为暴力事件，武契奇呼吁保持冷静</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/serbia-protest-over-election-turns-violent-vucic-calls-for-calm</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/serbia-protest-over-election-turns-violent-vucic-calls-for-calm</guid>
       <pubDate>Sun, 24 Dec 2023 20:16:29 GMT</pubDate>
     </item>
     <item>
-      <title>乍得通过宪法，为恢复民主制度做准备</title>
+      <title>乍得通过宪法以准备恢复民主制度</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/chad-adopts-constitution-to-prepare-for-return-to-democracy</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/chad-adopts-constitution-to-prepare-for-return-to-democracy</guid>
       <pubDate>Sun, 24 Dec 2023 19:33:20 GMT</pubDate>
     </item>
     <item>
-      <title>荷兰首相候选人威尔德斯呼吁土耳其选出支持世俗主义的领导人</title>
+      <title>荷兰总理候选人威尔德斯呼吁土耳其产生一位亲世俗领导人</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/would-be-dutch-pm-wilders-calls-for-pro-secular-leader-in-turkey</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/would-be-dutch-pm-wilders-calls-for-pro-secular-leader-in-turkey</guid>
       <pubDate>Sun, 24 Dec 2023 19:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>部长表示，伊拉克的水储备量处于数十年来的最低水平</title>
+      <title>天空新闻称英国将向圭亚那派遣皇家海军军舰以示声援</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-24/uk-to-deploy-royal-navy-warship-to-guyana-in-solidarity-sky</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-24/uk-to-deploy-royal-navy-warship-to-guyana-in-solidarity-sky</guid>
+      <pubDate>Sun, 24 Dec 2023 17:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>河储量几十年来最低，部长说道</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/iraq-s-water-reserve-is-at-lowest-in-decades-minister-says</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/iraq-s-water-reserve-is-at-lowest-in-decades-minister-says</guid>
       <pubDate>Sun, 24 Dec 2023 17:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>Prada斥资8.35亿美元购地谋划纽约扩张</title>
+      <title>普拉达斥资 8.35 亿美元收购大厦，谋求纽约市扩张大计</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-22/prada-plots-major-nyc-expansion-with-pair-of-building-purchases</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-22/prada-plots-major-nyc-expansion-with-pair-of-building-purchases</guid>
@@ -97,193 +139,151 @@
       <pubDate>Sun, 24 Dec 2023 16:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>曼联传奇收尾，拉特克利夫 13 亿美元收购交易</title>
+      <title>曼联传奇故事以13亿美元的拉特克利夫收购交易划上句号</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/jim-ratcliffe-buys-manchester-united-stake-from-glazer-family</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/jim-ratcliffe-buys-manchester-united-stake-from-glazer-family</guid>
       <pubDate>Sun, 24 Dec 2023 16:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>纸浆制造商苏扎诺3.76亿美元收购BTG管理的林业基金</title>
+      <title>纸浆制造商苏zano以3.76亿美元的交易收购BTG管理的林业基金</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/suzano-suzb3-buys-forestry-assets-in-376-million-deal-for-btg-managed-funds</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/suzano-suzb3-buys-forestry-assets-in-376-million-deal-for-btg-managed-funds</guid>
       <pubDate>Sun, 24 Dec 2023 15:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利预计日本收益创纪录，因日本央行推升交易</title>
+      <title>随着日本央行推动交易，摩根士丹利预计日本收入将创纪录</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/morgan-stanley-expects-record-japan-revenue-as-boj-fuels-trading</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/morgan-stanley-expects-record-japan-revenue-as-boj-fuels-trading</guid>
       <pubDate>Sun, 24 Dec 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>法国兴业银行将向波塔宁的俄罗斯银行出售俄罗斯持股</title>
+      <title>兴业银行将向波塔宁的俄罗斯商业银行出售其在俄罗斯持股的股份</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/socgen-to-sell-stakes-in-russian-holdings-to-potanin-s-rosbank</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/socgen-to-sell-stakes-in-russian-holdings-to-potanin-s-rosbank</guid>
       <pubDate>Sun, 24 Dec 2023 14:50:44 GMT</pubDate>
     </item>
     <item>
-      <title>Stratasys 确认收到纳米尺寸主动提出的收购计划</title>
+      <title>Stratasys 确认收到 Nano Dimension 的主动提案</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/nano-dimension-offers-to-buy-stratasys-in-1-1-billion-deal</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/nano-dimension-offers-to-buy-stratasys-in-1-1-billion-deal</guid>
       <pubDate>Sun, 24 Dec 2023 14:24:27 GMT</pubDate>
     </item>
     <item>
-      <title>CityLab：本周最受欢迎报道</title>
+      <title>CityLab：本周最受欢迎的文章</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-24/citylab-the-week-s-most-popular-stories</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-24/citylab-the-week-s-most-popular-stories</guid>
       <pubDate>Sun, 24 Dec 2023 14:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>莱法森银行与俄罗斯的交易牵涉德里帕斯卡的经理</title>
+      <title>莱菲森俄罗斯交易导致德力帕斯卡经理人判刑</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/raiffeisen-russland-deal-fuhrt-zu-deripaska-manager</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/raiffeisen-russland-deal-fuhrt-zu-deripaska-manager</guid>
       <pubDate>Sun, 24 Dec 2023 13:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>巴西公司债务激增，Unigel亏损扩大至1.08亿美元</title>
+      <title>UniGel 亏损扩大至 1.08 亿美元，原因是巴西公司债务激增</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/unigel-s-loss-widens-to-108-million-as-brazil-firm-s-debt-jumps</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/unigel-s-loss-widens-to-108-million-as-brazil-firm-s-debt-jumps</guid>
       <pubDate>Sun, 24 Dec 2023 13:15:36 GMT</pubDate>
     </item>
     <item>
-      <title>唯有爱国主义才能拯救美国，使其免于民族主义</title>
+      <title>唯有爱国主义才能使美国免于民族主义</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-24/only-patriotism-can-save-the-us-from-nationalism-in-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-24/only-patriotism-can-save-the-us-from-nationalism-in-2024</guid>
       <pubDate>Sun, 24 Dec 2023 13:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>奥美派圆周率称霸新闻界的一年</title>
+      <title>奥泽匹克风靡新闻的一年</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-24/the-year-ozempic-wegovy-and-more-weight-loss-drugs-ate-the-news</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-24/the-year-ozempic-wegovy-and-more-weight-loss-drugs-ate-the-news</guid>
       <pubDate>Sun, 24 Dec 2023 13:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年五大政治问题</title>
+      <title>2024 年的五大重大政治问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-24/politics-2024-government-shutdown-risk-supreme-court-questions</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-24/politics-2024-government-shutdown-risk-supreme-court-questions</guid>
       <pubDate>Sun, 24 Dec 2023 13:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>通知：新兴市场一周展望将于 1 月 7 日恢复</title>
+      <title>公告：新兴市场一周展望将于1月7日恢复</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/advisory-emerging-markets-week-ahead-will-resume-on-jan-7</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/advisory-emerging-markets-week-ahead-will-resume-on-jan-7</guid>
       <pubDate>Sun, 24 Dec 2023 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ozempic 制造商将在都柏林建设大型工厂</title>
+      <title>Ozempic 制造商将在都柏林建立大型工厂</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/ozempic-maker-to-build-mega-factory-in-dublin-sunday-times-says</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/ozempic-maker-to-build-mega-factory-in-dublin-sunday-times-says</guid>
       <pubDate>Sun, 24 Dec 2023 12:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算终于来了。但是它是什么？</title>
+      <title>量子计算终于来了。它究竟是什么？</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/what-is-quantum-computing-what-do-quantum-computers-do-and-can-i-get-one</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/what-is-quantum-computing-what-do-quantum-computers-do-and-can-i-get-one</guid>
       <pubDate>Sun, 24 Dec 2023 11:42:47 GMT</pubDate>
     </item>
     <item>
-      <title>总统候选人称台湾是世界安全关键所在</title>
+      <title>总统候选人说台湾是世界安全的关键</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/top-presidential-candidate-says-taiwan-key-for-world-security</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/top-presidential-candidate-says-taiwan-key-for-world-security</guid>
       <pubDate>Sun, 24 Dec 2023 11:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>随着航运威胁不断加剧，美国指责伊朗发动印度洋袭击</title>
+      <title>美方指责伊朗发动印度洋袭击，随着航运威胁加剧</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/us-accuses-iran-of-indian-ocean-attack-as-shipping-threat-grows</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/us-accuses-iran-of-indian-ocean-attack-as-shipping-threat-grows</guid>
       <pubDate>Sun, 24 Dec 2023 10:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>莱佛森的俄罗斯交易导致为受制裁大亨工作的高管下台</title>
+      <title>俄罗斯来富信银行的交易导致一位曾经为受制裁富豪服务的高管</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/raiffeisen-s-russian-deal-leads-to-an-executive-who-worked-for-sanctioned-tycoon</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/raiffeisen-s-russian-deal-leads-to-an-executive-who-worked-for-sanctioned-tycoon</guid>
       <pubDate>Sun, 24 Dec 2023 09:42:20 GMT</pubDate>
     </item>
     <item>
-      <title>印尼摩罗瓦利钢铁厂发生火灾 13 名工人丧生</title>
+      <title>印尼中苏拉威西省莫罗瓦利钢铁厂发生火灾，造成 13 名工人死亡</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/twelve-dead-dozens-injured-in-fire-at-indonesian-steel-plant</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/twelve-dead-dozens-injured-in-fire-at-indonesian-steel-plant</guid>
       <pubDate>Sun, 24 Dec 2023 08:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>加沙和航运冲突加剧之际，伊朗军队推出新装备</title>
+      <title>加沙、运输冲突加剧，伊朗军队展示新式武器</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-24/iran-army-unveils-new-hardware-as-gaza-shipping-conflicts-grow</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-24/iran-army-unveils-new-hardware-as-gaza-shipping-conflicts-grow</guid>
       <pubDate>Sun, 24 Dec 2023 08:19:28 GMT</pubDate>
     </item>
     <item>
-      <title>蔚来发布旗舰轿车，瞄准保时捷 Panamera</title>
+      <title>中国蔚来宣布推出对标Panamera的豪华电动轿车</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/china-s-nio-unveils-executive-ev-to-take-on-panamera</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/china-s-nio-unveils-executive-ev-to-take-on-panamera</guid>
       <pubDate>Sun, 24 Dec 2023 08:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>土耳其在 12 名士兵阵亡后空袭伊拉克北部和叙利亚</title>
+      <title>12 名士兵遭杀后，土耳其向伊拉克北部和叙利亚发动袭击</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-23/six-turkish-soldiers-killed-in-northern-iraq-ministry-said</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-23/six-turkish-soldiers-killed-in-northern-iraq-ministry-said</guid>
       <pubDate>Sun, 24 Dec 2023 05:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国地震损失评估：重灾区评估损失 7500 万</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-24/china-earthquake-inflicts-75-million-loss-on-hardest-hit-region</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-24/china-earthquake-inflicts-75-million-loss-on-hardest-hit-region</guid>
-      <pubDate>Sun, 24 Dec 2023 04:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普告诉申诉审议委员会他应享有“绝对豁免权”</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-24/trump-tells-appeals-panel-he-should-have-absolute-immunity</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-24/trump-tells-appeals-panel-he-should-have-absolute-immunity</guid>
-      <pubDate>Sun, 24 Dec 2023 04:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美光和解知识产权盗窃诉讼，致力于修复北京关系</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-24/micron-settles-ip-theft-lawsuit-amid-push-to-repair-beijing-ties</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-24/micron-settles-ip-theft-lawsuit-amid-push-to-repair-beijing-ties</guid>
-      <pubDate>Sun, 24 Dec 2023 04:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗驳斥美国情报界将其与红海袭击联系起来</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-23/iran-calls-intelligence-tying-it-to-red-sea-attacks-baseless</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-23/iran-calls-intelligence-tying-it-to-red-sea-attacks-baseless</guid>
-      <pubDate>Sun, 24 Dec 2023 01:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>读卖新闻：丰田因大发丑闻暂停部分东南亚出口</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-24/toyota-halts-some-se-asia-exports-on-daihatsu-scandal-yomiuri</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-24/toyota-halts-some-se-asia-exports-on-daihatsu-scandal-yomiuri</guid>
-      <pubDate>Sun, 24 Dec 2023 00:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stonepeak Partners 将投资汽车故障保险公司 AA</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-23/stonepeak-partners-to-invest-in-breakdown-coverage-firm-aa</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-23/stonepeak-partners-to-invest-in-breakdown-coverage-firm-aa</guid>
-      <pubDate>Sat, 23 Dec 2023 21:36:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
