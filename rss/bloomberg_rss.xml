@@ -4,100 +4,198 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 29 Dec 2023 00:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 03:17:14 GMT</lastBuildDate>
     <item>
-      <title>华尔街 2023 年遭遇的所有误判</title>
+      <title>Terraform、SEC 准备启动加密审判，Jump Trading 备受关注</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/terraform-labs-sec-headed-to-crypto-fraud-trial-in-january</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/terraform-labs-sec-headed-to-crypto-fraud-trial-in-january</guid>
+      <pubDate>Fri, 29 Dec 2023 02:19:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果合作伙伴立讯精密将接管中国关键 iPhone 工厂</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/apple-supplier-luxshare-to-control-taiwan-rival-s-iphone-site</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/apple-supplier-luxshare-to-control-taiwan-rival-s-iphone-site</guid>
+      <pubDate>Fri, 29 Dec 2023 02:17:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>国泰因飞行员患病取消多趟年底航班</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/cathay-pacific-cancels-some-year-end-flights-over-pilot-illness</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/cathay-pacific-cancels-some-year-end-flights-over-pilot-illness</guid>
+      <pubDate>Fri, 29 Dec 2023 02:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>缅因州禁止特朗普参加 2024 年总统初选民投票</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/maine-s-top-election-official-bars-trump-from-gop-primary-ballot</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/maine-s-top-election-official-bars-trump-from-gop-primary-ballot</guid>
+      <pubDate>Fri, 29 Dec 2023 02:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>越南经济强劲，季度增长率超预期</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/vietnam-economy-has-strength-as-quarterly-growth-beats-estimates</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/vietnam-economy-has-strength-as-quarterly-growth-beats-estimates</guid>
+      <pubDate>Fri, 29 Dec 2023 02:01:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>零售交易繁荣使印度交易所的衍生品交易量翻番</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/retail-trading-boom-doubles-derivatives-turnover-at-india-bourse</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/retail-trading-boom-doubles-derivatives-turnover-at-india-bourse</guid>
+      <pubDate>Fri, 29 Dec 2023 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美元正走向自 2020 年以来表现最差的一年</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/dollar-battered-by-rate-cut-bets-set-for-worst-year-since-2020</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/dollar-battered-by-rate-cut-bets-set-for-worst-year-since-2020</guid>
+      <pubDate>Fri, 29 Dec 2023 01:57:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国承诺预防建筑公司麻烦带来的疫情</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/korea-mulls-billions-more-support-as-builder-suffers-debt-woes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/korea-mulls-billions-more-support-as-builder-suffers-debt-woes</guid>
+      <pubDate>Fri, 29 Dec 2023 01:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度股市记录八年连胜势头或将延续</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/record-eight-year-winning-streak-seen-extending-for-india-stocks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/record-eight-year-winning-streak-seen-extending-for-india-stocks</guid>
+      <pubDate>Fri, 29 Dec 2023 01:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧佩克+ 和冲突未能支撑油价，石油年内将面临亏损</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/latest-oil-market-news-and-analysis-for-dec-29</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/latest-oil-market-news-and-analysis-for-dec-29</guid>
+      <pubDate>Fri, 29 Dec 2023 01:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 猎鹰重型火箭将美军秘密太空飞机送入轨道</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/spacex-s-falcon-heavy-lofts-secretive-us-military-spaceplane</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/spacex-s-falcon-heavy-lofts-secretive-us-military-spaceplane</guid>
+      <pubDate>Fri, 29 Dec 2023 01:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克旗下 X 败诉，无法阻止加利福尼亚州内容审核法</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/musk-s-x-loses-bid-to-block-california-content-moderation-law</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/musk-s-x-loses-bid-to-block-california-content-moderation-law</guid>
+      <pubDate>Fri, 29 Dec 2023 00:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>朝鲜意欲动摇美国，韩国投票，该国谍报机构称</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/north-korea-aims-to-shake-up-us-s-korea-votes-spy-agency-says</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/north-korea-aims-to-shake-up-us-s-korea-votes-spy-agency-says</guid>
+      <pubDate>Fri, 29 Dec 2023 00:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>聆听：特朗普落选缅因州选票，更多</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/listen-record-debt-gains-ukraine-s-last-us-aid-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/listen-record-debt-gains-ukraine-s-last-us-aid-more</guid>
+      <pubDate>Fri, 29 Dec 2023 00:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登批准路易斯安那州在碳汇审查中发挥主导作用</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/biden-to-award-lousiana-lead-role-vetting-carbon-storage-wells</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/biden-to-award-lousiana-lead-role-vetting-carbon-storage-wells</guid>
+      <pubDate>Fri, 29 Dec 2023 00:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国试图说服货船公司无视胡塞武装袭击，航行红海</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/pentagon-tries-to-ease-fears-on-red-sea-shipping-amid-houthi-attacks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/pentagon-tries-to-ease-fears-on-red-sea-shipping-amid-houthi-attacks</guid>
+      <pubDate>Fri, 29 Dec 2023 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024年英国消费者准备大幅削减开支，加剧经济衰退担忧</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-29/uk-consumers-to-cut-back-in-2024-reviving-recession-concerns</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-29/uk-consumers-to-cut-back-in-2024-reviving-recession-concerns</guid>
+      <pubDate>Fri, 29 Dec 2023 00:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年华尔街的全部错误预测</title>
       <link>https://www.bloomberg.com/news/features/2023-12-29/wall-street-s-worst-investing-mistakes-of-2023-from-stocks-to-treasuries</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/features/2023-12-29/wall-street-s-worst-investing-mistakes-of-2023-from-stocks-to-treasuries</guid>
       <pubDate>Fri, 29 Dec 2023 00:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>由于资本外流缓解，人民币被视为 2024 年兑美元升值</title>
+      <title>预计随着资本外流减弱，2024 年人民币将兑美元升值</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-29/yuan-seen-rising-versus-dollar-in-2024-as-capital-outflows-ease</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-29/yuan-seen-rising-versus-dollar-in-2024-as-capital-outflows-ease</guid>
       <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>中国股市经历惨淡一年 外资流入枯竭</title>
+      <title>经济遭遇困境 中国股市外国流入创纪录新低</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-29/china-stock-market-sees-foreign-inflows-dry-up-in-dismal-year</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-29/china-stock-market-sees-foreign-inflows-dry-up-in-dismal-year</guid>
       <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克 X 公司败诉，无法阻止加利福尼亚内容审核法</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/musk-s-x-loses-bid-to-block-california-content-moderation-law</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/musk-s-x-loses-bid-to-block-california-content-moderation-law</guid>
-      <pubDate>Thu, 28 Dec 2023 23:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>内战围绕奴隶制的争论引众怒，尼基·黑莉表示“当然”</title>
+      <title>Nikki Haley 表示“当然”内战是关于奴隶制的，在此期间遭到强烈反对</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/democrats-assail-haley-for-omitting-slavery-as-civil-war-cause</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/democrats-assail-haley-for-omitting-slavery-as-civil-war-cause</guid>
       <pubDate>Thu, 28 Dec 2023 23:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>伊拉克斥资 20 亿美元启动建造新城项目</title>
+      <title>伊拉克动工兴建价值20亿美元的新城</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/iraq-breaks-ground-on-2-billion-project-to-build-new-city</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/iraq-breaks-ground-on-2-billion-project-to-build-new-city</guid>
       <pubDate>Thu, 28 Dec 2023 23:40:04 GMT</pubDate>
     </item>
     <item>
-      <title>法官裁定，Terraform Labs 对出售未注册证券承担法律责任</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/terraform-labs-sec-headed-to-crypto-fraud-trial-in-january</link>
+      <title>韩国通胀进一步缓解 显示经济增长速度放缓</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/south-korea-inflation-eases-slightly-in-sign-of-further-cooling</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/terraform-labs-sec-headed-to-crypto-fraud-trial-in-january</guid>
-      <pubDate>Thu, 28 Dec 2023 23:27:10 GMT</pubDate>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/south-korea-inflation-eases-slightly-in-sign-of-further-cooling</guid>
+      <pubDate>Thu, 28 Dec 2023 23:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>听一听：胡塞制裁、失业救济申请、更多</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/listen-record-debt-gains-ukraine-s-last-us-aid-more</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/listen-record-debt-gains-ukraine-s-last-us-aid-more</guid>
-      <pubDate>Thu, 28 Dec 2023 23:26:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲市场喜忧参半，2023 年该地区落后于同行：市场综述</title>
+      <title>亚洲谨慎乐观，因该地区滞后于 2023 年的其他地区：市场观察</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 28 Dec 2023 23:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>日本股市创安倍经济学刺激以来最佳年涨幅</title>
+      <title>自安倍经济学带来震动效应后，日经指数或将实现最佳年度涨幅</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/japan-stocks-poised-to-post-best-gains-in-a-decade-since-abenomics</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/japan-stocks-poised-to-post-best-gains-in-a-decade-since-abenomics</guid>
       <pubDate>Thu, 28 Dec 2023 23:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>晚间简报：达拉斯成了华尔街新的南方劲敌</title>
+      <title>晚间简报：达拉斯成为华尔街的新兴南方对手</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-28/bloomberg-evening-briefing-dallas-is-wall-street-s-new-southern-rival</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-28/bloomberg-evening-briefing-dallas-is-wall-street-s-new-southern-rival</guid>
       <pubDate>Thu, 28 Dec 2023 23:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>韩国通胀略有缓和，表明经济进一步降温</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/south-korea-inflation-eases-slightly-in-sign-of-further-cooling</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/south-korea-inflation-eases-slightly-in-sign-of-further-cooling</guid>
-      <pubDate>Thu, 28 Dec 2023 23:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国最富裕省份承诺引领经济增长</title>
+      <title>中国最富裕的省份承诺带头推动增长</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/china-s-richest-provinces-promise-to-take-lead-in-driving-growth</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/china-s-richest-provinces-promise-to-take-lead-in-driving-growth</guid>
       <pubDate>Thu, 28 Dec 2023 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>科罗拉多州共和党要求最高法院将特朗普放在州选票上</title>
+      <title>科罗拉多州共和党要求最高法院将特朗普留在州选票上</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/colorado-gop-asks-supreme-court-to-keep-trump-on-state-ballot</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/colorado-gop-asks-supreme-court-to-keep-trump-on-state-ballot</guid>
@@ -111,179 +209,81 @@
       <pubDate>Thu, 28 Dec 2023 22:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>妮基·黑莉未能通过政治和道德测试</title>
+      <title>尼基·黑莉在政治和道德考验中失败</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-28/nikki-haley-s-civil-war-comments-fail-political-and-moral-test</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-28/nikki-haley-s-civil-war-comments-fail-political-and-moral-test</guid>
       <pubDate>Thu, 28 Dec 2023 22:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>阿根廷首次为进口商推出的“重建”债券销售惨遭滑铁卢</title>
+      <title>阿根廷首批“重建”债券遭到进口商抛售</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/argentina-s-first-reconstruction-bond-sale-to-importers-flops</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/argentina-s-first-reconstruction-bond-sale-to-importers-flops</guid>
       <pubDate>Thu, 28 Dec 2023 22:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>习近平呼吁民族团结 新疆新规汇集助力</title>
+      <title>新疆新规助力习近平统一民族的号召</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/xi-s-call-for-ethnic-unity-gets-boost-with-new-xinjiang-rules</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/xi-s-call-for-ethnic-unity-gets-boost-with-new-xinjiang-rules</guid>
       <pubDate>Thu, 28 Dec 2023 22:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>中国电动汽车公司纷纷赴港</title>
+      <title>中国电动汽车公司纷纷进军香港</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/electric-car-companies-from-china-are-flocking-to-hong-kong</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/electric-car-companies-from-china-are-flocking-to-hong-kong</guid>
       <pubDate>Thu, 28 Dec 2023 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能狂热推动纳斯达克 100 指数创下 1999 年以来最佳表现：市场收评</title>
+      <title>人工智能狂潮推动纳斯达克 100 指数自 1999 年以来最佳表现：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-27/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-27/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 28 Dec 2023 21:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>美联储信贷工具用途创纪录</title>
+      <title>美联储定期融资工具的使用量创纪录，用于套利交易</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/use-of-fed-term-funding-tool-rises-to-record-in-arbitrage-play</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/use-of-fed-term-funding-tool-rises-to-record-in-arbitrage-play</guid>
       <pubDate>Thu, 28 Dec 2023 21:47:21 GMT</pubDate>
     </item>
     <item>
-      <title>欧莱雅继承人弗朗索瓦丝·贝当古·梅耶斯成为第一位身家超过1000亿美元的女性</title>
+      <title>欧莱雅女继承人弗朗索瓦丝·贝当古·迈耶斯，百亿美元身家第一位女性</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/l-oreal-heir-francoise-bettencourt-meyers-is-first-woman-to-hit-100-billion</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/l-oreal-heir-francoise-bettencourt-meyers-is-first-woman-to-hit-100-billion</guid>
       <pubDate>Thu, 28 Dec 2023 21:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>拜登授予路易斯安那州在审查碳汇方面的带头作用</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/biden-to-award-lousiana-lead-role-vetting-carbon-storage-wells</link>
+      <title>年终之前市场紧张，资金利率大幅波动</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-28/repo-benchmark-matches-all-time-high-in-volatile-funding-market</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/biden-to-award-lousiana-lead-role-vetting-carbon-storage-wells</guid>
-      <pubDate>Thu, 28 Dec 2023 21:39:43 GMT</pubDate>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-28/repo-benchmark-matches-all-time-high-in-volatile-funding-market</guid>
+      <pubDate>Thu, 28 Dec 2023 21:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>今年你在中国可能疏忽了哪些方面</title>
+      <title>今年你可能忽视的中国</title>
       <link>https://www.bloomberg.com/opinion/articles/2023-12-28/china-economy-what-you-may-have-overlooked-this-year</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2023-12-28/china-economy-what-you-may-have-overlooked-this-year</guid>
       <pubDate>Thu, 28 Dec 2023 21:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能领域未来一年：工具更加强大，炒作略有减少</title>
+      <title>人工智能发展年度展望：更强大的工具，逐渐降温的热度</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-28/ai-2024-predictions-more-powerful-tools-a-little-less-hype</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-28/ai-2024-predictions-more-powerful-tools-a-little-less-hype</guid>
       <pubDate>Thu, 28 Dec 2023 21:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年中国民众放弃海外飞行，即便国内旅行蓬勃发展</title>
+      <title>尽管国内旅游业蓬勃发展 但中国民众 2024 年仍将避免海外飞行</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-28/chinese-to-skip-flying-overseas-in-2024-even-as-domestic-travel-booms</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-28/chinese-to-skip-flying-overseas-in-2024-even-as-domestic-travel-booms</guid>
       <pubDate>Thu, 28 Dec 2023 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国货币市场基金资产在连续两周流出后反弹</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/us-money-market-fund-assets-rebound-after-two-weekly-outflows</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/us-money-market-fund-assets-rebound-after-two-weekly-outflows</guid>
-      <pubDate>Thu, 28 Dec 2023 20:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signa 撤资后，Selfridges 求助于共同所有者 Central Group 筹资</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/selfridges-turns-to-thai-co-owner-for-cash-as-signa-collapses</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/selfridges-turns-to-thai-co-owner-for-cash-as-signa-collapses</guid>
-      <pubDate>Thu, 28 Dec 2023 20:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿根廷顶级工会号召罢工反对米莱改革</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/argentina-powerful-unions-call-strike-against-milei-s-reforms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/argentina-powerful-unions-call-strike-against-milei-s-reforms</guid>
-      <pubDate>Thu, 28 Dec 2023 20:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>中美军事热线在一片坏消息中传递积极信号</title>
-      <link>https://www.bloomberg.com/opinion/articles/2023-12-28/china-us-military-hotline-can-help-avoid-accidental-combat-in-pacific</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2023-12-28/china-us-military-hotline-can-help-avoid-accidental-combat-in-pacific</guid>
-      <pubDate>Thu, 28 Dec 2023 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年，假新闻将摧毁民主吗？</title>
-      <link>https://www.bloomberg.com/opinion/articles/2023-12-28/elections-2024-fake-news-could-destroy-democracy</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2023-12-28/elections-2024-fake-news-could-destroy-democracy</guid>
-      <pubDate>Thu, 28 Dec 2023 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>委内瑞拉向东加勒比海海岸部署军队，援引圭亚那威胁</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/venezuela-deploys-soldiers-amid-guyana-threat-maduro-says</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/venezuela-deploys-soldiers-amid-guyana-threat-maduro-says</guid>
-      <pubDate>Thu, 28 Dec 2023 19:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果电动汽车引领未来，那么未来尚远</title>
-      <link>https://www.bloomberg.com/opinion/articles/2023-12-28/byd-passes-tesla-if-evs-are-the-future-the-future-is-a-long-way-off</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2023-12-28/byd-passes-tesla-if-evs-are-the-future-the-future-is-a-long-way-off</guid>
-      <pubDate>Thu, 28 Dec 2023 19:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利就“财政上危险的”住房补贴达成协议</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/italy-strikes-deal-on-financially-radioactive-housing-benefit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/italy-strikes-deal-on-financially-radioactive-housing-benefit</guid>
-      <pubDate>Thu, 28 Dec 2023 19:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>明尼阿波利斯打赢无家可归持久战</title>
-      <link>https://www.bloomberg.com/news/features/2023-12-22/minneapolis-is-on-a-quest-to-defeat-chronic-homelessness</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/features/2023-12-22/minneapolis-is-on-a-quest-to-defeat-chronic-homelessness</guid>
-      <pubDate>Thu, 28 Dec 2023 19:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元自 2020 年以来表现最差</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/dollar-battered-by-rate-cut-bets-set-for-worst-year-since-2020</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/dollar-battered-by-rate-cut-bets-set-for-worst-year-since-2020</guid>
-      <pubDate>Thu, 28 Dec 2023 19:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>红海船队一半避开遇袭水域</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/la-mitad-de-la-flota-de-portacontenedores-del-mar-rojo-evita-ruta-por-ataques</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/la-mitad-de-la-flota-de-portacontenedores-del-mar-rojo-evita-ruta-por-ataques</guid>
-      <pubDate>Thu, 28 Dec 2023 19:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>油价下跌，因美国库存数据描绘了需求前景不一</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-27/latest-oil-market-news-and-analysis-for-dec-28</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-27/latest-oil-market-news-and-analysis-for-dec-28</guid>
-      <pubDate>Thu, 28 Dec 2023 19:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 亿万富豪 CEO 着手修复被打断的盈利记录</title>
-      <link>https://www.bloomberg.com/opinion/articles/2023-12-26/spotify-s-billionaire-ceo-daniel-ek-has-a-broken-profit-record-to-fix</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2023-12-26/spotify-s-billionaire-ceo-daniel-ek-has-a-broken-profit-record-to-fix</guid>
-      <pubDate>Thu, 28 Dec 2023 19:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球债券“狂欢”为未来两个月创纪录的局面奠定基础</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-28/global-bonds-eye-biggest-ever-two-month-gain-amid-rate-cut-bets</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-28/global-bonds-eye-biggest-ever-two-month-gain-amid-rate-cut-bets</guid>
-      <pubDate>Thu, 28 Dec 2023 18:43:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
