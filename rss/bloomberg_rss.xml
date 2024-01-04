@@ -4,69 +4,258 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 04 Jan 2024 09:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 12:28:48 GMT</lastBuildDate>
     <item>
-      <title>又一公司上调收益预期：伦敦急跌</title>
+      <title>英国经济学家上调展望 英国央行或将在5月降息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/uk-outlook-brightens-with-inflation-set-for-2-target-in-spring</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/uk-outlook-brightens-with-inflation-set-for-2-target-in-spring</guid>
+      <pubDate>Thu, 04 Jan 2024 10:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>听闻：爱泼斯坦文件、特朗普诉讼、更多</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/listen-fed-minutes-iran-blasts-more</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/listen-fed-minutes-iran-blasts-more</guid>
+      <pubDate>Thu, 04 Jan 2024 10:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币接近 10% 跌幅后努力复苏</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/bitcoin-struggles-to-recover-after-near-10-drop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/bitcoin-struggles-to-recover-after-near-10-drop</guid>
+      <pubDate>Thu, 04 Jan 2024 10:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国苦苦挣扎的零售商的圣诞奖金</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-01-04/next-s-strong-sales-provide-holiday-cheer-for-struggling-uk-retailers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-01-04/next-s-strong-sales-provide-holiday-cheer-for-struggling-uk-retailers</guid>
+      <pubDate>Thu, 04 Jan 2024 10:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/republicans-probe-biden-s-green-bank-for-signs-of-next-solyndra</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/republicans-probe-biden-s-green-bank-for-signs-of-next-solyndra</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>为何美国汽车买家重新考量电动汽车</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/high-ev-prices-charging-worries-push-us-car-buyers-to-hybrids</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/high-ev-prices-charging-worries-push-us-car-buyers-to-hybrids</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国新设“邪恶轴心”予以防范</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-01-04/america-has-a-new-axis-of-evil-to-prevent</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-01-04/america-has-a-new-axis-of-evil-to-prevent</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普关于选票的激战将最高法院拖入 2024 年选举</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/trump-takes-ballot-battle-to-supreme-court-the-potential-outcomes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/trump-takes-ballot-battle-to-supreme-court-the-potential-outcomes</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝佐斯瞄准 SpaceX 竞争对手，亿万富翁太空争夺战升温</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/spacex-competitor-ula-prepares-first-launch-of-new-rocket-as-bezos-bids-for-firm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/spacex-competitor-ula-prepares-first-launch-of-new-rocket-as-bezos-bids-for-firm</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国奖励微芯 1.62 亿美元，以提振传统半导体</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/us-awards-microchip-162-million-to-boost-legacy-semiconductors</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/us-awards-microchip-162-million-to-boost-legacy-semiconductors</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>多伦多房屋销售创八个月最大增幅、价格下跌</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/toronto-home-sales-surge-most-in-eight-months-with-prices-falling</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/toronto-home-sales-surge-most-in-eight-months-with-prices-falling</guid>
+      <pubDate>Thu, 04 Jan 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>红海改航航线集装箱运费飙涨173%</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/spot-container-shipping-rates-soar-173-on-red-sea-diversions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/spot-container-shipping-rates-soar-173-on-red-sea-diversions</guid>
+      <pubDate>Thu, 04 Jan 2024 09:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next 看到红海船运延误带来实质性影响</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/next-sees-material-impact-from-red-sea-shipping-delays</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/next-sees-material-impact-from-red-sea-shipping-delays</guid>
+      <pubDate>Thu, 04 Jan 2024 09:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>富时100指数实时行情：即刻掌握英国市场走向</title>
+      <link>https://www.bloomberg.com/news/live-blog/2024-01-04/what-s-moving-uk-markets-right-now-markets-today</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/live-blog/2024-01-04/what-s-moving-uk-markets-right-now-markets-today</guid>
+      <pubDate>Thu, 04 Jan 2024 09:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国抵押贷款批准量和消费者信贷额度涨幅高于预期</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/uk-mortgage-approvals-consumer-credit-rise-more-than-forecast</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/uk-mortgage-approvals-consumer-credit-rise-more-than-forecast</guid>
+      <pubDate>Thu, 04 Jan 2024 09:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国军队整肃直指习军事改革核心</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/china-s-defense-purge-strikes-at-heart-of-xi-s-military-reforms</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/china-s-defense-purge-strikes-at-heart-of-xi-s-military-reforms</guid>
+      <pubDate>Thu, 04 Jan 2024 09:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗致命爆炸和美国警告加剧中东紧张局势</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/deadly-iran-blasts-and-us-warnings-escalate-mideast-tensions</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/deadly-iran-blasts-and-us-warnings-escalate-mideast-tensions</guid>
+      <pubDate>Thu, 04 Jan 2024 09:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>西格纳债权人名单确定更多合作银行、储蓄银行</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/signa-glaubigerliste-identifiziert-weitere-genobanken-sparkasse</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/signa-glaubigerliste-identifiziert-weitere-genobanken-sparkasse</guid>
+      <pubDate>Thu, 04 Jan 2024 09:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼日利亚称发电企业资本缺口达 25 亿美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/nigeria-says-power-firms-are-short-of-2-5-billion-of-capital</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/nigeria-says-power-firms-are-short-of-2-5-billion-of-capital</guid>
+      <pubDate>Thu, 04 Jan 2024 09:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着价格上涨，俄罗斯石油在印度失去竞争优势</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/russian-oil-losing-competitive-edge-in-india-as-prices-rise</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/russian-oil-losing-competitive-edge-in-india-as-prices-rise</guid>
+      <pubDate>Thu, 04 Jan 2024 09:07:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲温和的冬季开局后本月迎来深冻</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/deep-freeze-to-grip-europe-this-month-after-mild-start-to-winter</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/deep-freeze-to-grip-europe-this-month-after-mild-start-to-winter</guid>
+      <pubDate>Thu, 04 Jan 2024 09:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>红海袭击再次改变全球贸易</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/how-red-sea-shipping-attacks-are-disrupting-global-trade-odd-lots</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/how-red-sea-shipping-attacks-are-disrupting-global-trade-odd-lots</guid>
+      <pubDate>Thu, 04 Jan 2024 09:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国建筑商太永滑坡带来溢出风险，信贷面临威胁</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/korea-s-taeyoung-slides-after-top-creditor-presses-for-debt-plan</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/korea-s-taeyoung-slides-after-top-creditor-presses-for-debt-plan</guid>
+      <pubDate>Thu, 04 Jan 2024 09:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>亿孚药业股价暴跌 因制药公司首席执行官意外卸任</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/evotec-shares-plunge-after-ceo-lanthaler-unexpectedly-steps-down</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/evotec-shares-plunge-after-ceo-lanthaler-unexpectedly-steps-down</guid>
+      <pubDate>Thu, 04 Jan 2024 08:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>油价上涨提振能源类股，欧洲股市反弹</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/european-stocks-rebound-as-oil-price-jump-boosts-energy-shares</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/european-stocks-rebound-as-oil-price-jump-boosts-energy-shares</guid>
+      <pubDate>Thu, 04 Jan 2024 08:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>再度下调收益预测：伦敦冲刺</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/next-bumps-profit-outlook-again-the-london-rush</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/next-bumps-profit-outlook-again-the-london-rush</guid>
       <pubDate>Thu, 04 Jan 2024 08:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>聆听：美联储的加息想法、伊朗爆炸事件，更多报道</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/listen-fed-minutes-iran-blasts-more</link>
+      <title>欧洲天然气因寒潮而继续涨势，中东风险备受关注</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/europe-gas-extends-gain-with-cold-snap-mideast-risks-in-focus</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/listen-fed-minutes-iran-blasts-more</guid>
-      <pubDate>Thu, 04 Jan 2024 08:14:15 GMT</pubDate>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/europe-gas-extends-gain-with-cold-snap-mideast-risks-in-focus</guid>
+      <pubDate>Thu, 04 Jan 2024 08:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>微软几十年来首次更改电脑键盘，加入 AI 键</title>
+      <title>非洲联盟与美国联合呼吁非洲之角地区保持冷静</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/african-union-chief-calls-for-calm-in-ethiopia-somalia-spat</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/african-union-chief-calls-for-calm-in-ethiopia-somalia-spat</guid>
+      <pubDate>Thu, 04 Jan 2024 08:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国时尚连锁企业 Next 在节日激增后对利润表示乐观</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/next-forecasts-higher-profit-in-2025-after-bumper-christmas</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/next-forecasts-higher-profit-in-2025-after-bumper-christmas</guid>
+      <pubDate>Thu, 04 Jan 2024 08:06:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软数十年来首次更改个人电脑键盘，增加人工智能键</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/microsoft-ai-copilot-keyboard-new-key-is-msft-s-biggest-change-in-years</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/microsoft-ai-copilot-keyboard-new-key-is-msft-s-biggest-change-in-years</guid>
       <pubDate>Thu, 04 Jan 2024 08:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>血雨腥风：彭博收盘，亚洲版</title>
+      <title>血雨：彭博社闭幕，亚洲版</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-01-04/red-rain-the-bloomberg-close-asia-edition</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-01-04/red-rain-the-bloomberg-close-asia-edition</guid>
       <pubDate>Thu, 04 Jan 2024 08:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>中国航空旅游业复苏随着推动更多美国航班而加速</title>
+      <title>花旗校友计划推出无需 SEC 批准的比特币证券</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/ex-citi-execs-plan-bitcoin-btc-securities-that-don-t-need-ok-from-us</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/ex-citi-execs-plan-bitcoin-btc-securities-that-don-t-need-ok-from-us</guid>
+      <pubDate>Thu, 04 Jan 2024 08:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>JD Sports 发布盈利警告并归咎于天气导致销售疲软</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-04/jd-sports-issues-profit-warning-and-blames-weather-for-weak-sales</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-04/jd-sports-issues-profit-warning-and-blames-weather-for-weak-sales</guid>
+      <pubDate>Thu, 04 Jan 2024 07:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着中国推动更多美国航班，中国航空旅行反弹势头将得到提振</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/china-air-travel-recovery-to-ramp-up-with-push-for-more-direct-us-flights</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/china-air-travel-recovery-to-ramp-up-with-push-for-more-direct-us-flights</guid>
       <pubDate>Thu, 04 Jan 2024 07:52:01 GMT</pubDate>
     </item>
     <item>
-      <title>拜耳通过基因疗法治疗帕金森氏症的早期障碍</title>
+      <title>贝尔贺尔通过基因疗法治愈帕金森氏症越过早期障碍</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/bayer-clears-early-hurdle-with-gene-therapy-for-parkinson-s</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/bayer-clears-early-hurdle-with-gene-therapy-for-parkinson-s</guid>
       <pubDate>Thu, 04 Jan 2024 07:46:39 GMT</pubDate>
     </item>
     <item>
-      <title>法通胀因能源和服务成本上升而小幅上升</title>
+      <title>能源和服务成本推动法国通胀小幅上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/french-inflation-inches-higher-on-energy-services-costs</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/french-inflation-inches-higher-on-energy-services-costs</guid>
       <pubDate>Thu, 04 Jan 2024 07:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣诞节旺季销售火爆，NEXT 公司预测 2025 年利润更高</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/next-forecasts-higher-profit-in-2025-after-bumper-christmas</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/next-forecasts-higher-profit-in-2025-after-bumper-christmas</guid>
-      <pubDate>Thu, 04 Jan 2024 07:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲股指期货在亚洲股市反弹后上涨：市场收盘</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-03/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-03/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Thu, 04 Jan 2024 07:21:38 GMT</pubDate>
     </item>
     <item>
       <title>菲律宾央行行长暗示减少外汇干预</title>
@@ -76,214 +265,25 @@
       <pubDate>Thu, 04 Jan 2024 07:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲债券 2024 年将难获汇率上升支持</title>
+      <title>2024年亚债无法指望货币增值助力</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/asian-bonds-to-get-little-support-from-currency-gains-in-2024</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/asian-bonds-to-get-little-support-from-currency-gains-in-2024</guid>
       <pubDate>Thu, 04 Jan 2024 07:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>富时 100 指数实时行情：目前推动英国市场的因素</title>
-      <link>https://www.bloomberg.com/news/live-blog/2024-01-04/what-s-moving-uk-markets-right-now-markets-today</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/live-blog/2024-01-04/what-s-moving-uk-markets-right-now-markets-today</guid>
-      <pubDate>Thu, 04 Jan 2024 07:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>地震提高了日本央行结束负利率的门槛</title>
+      <title>地震或将促使日本央行结束负利率</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/earthquake-may-raise-hurdle-for-boj-to-end-negative-interest-rate-policy</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/earthquake-may-raise-hurdle-for-boj-to-end-negative-interest-rate-policy</guid>
       <pubDate>Thu, 04 Jan 2024 06:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>JPMorgan、高盛与 Grayscale 讨论在比特币 ETF 中的角色</title>
+      <title>摩根大通、高盛与灰度讨论其在比特币 ETF 中的作用</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-04/jpmorgan-goldman-erortern-mit-grayscale-rolle-bei-bitcoin-etf</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-04/jpmorgan-goldman-erortern-mit-grayscale-rolle-bei-bitcoin-etf</guid>
       <pubDate>Thu, 04 Jan 2024 06:34:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗致命爆炸和美国警告加剧中东紧张局势</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/deadly-iran-blasts-and-us-warnings-escalate-mideast-tensions</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/deadly-iran-blasts-and-us-warnings-escalate-mideast-tensions</guid>
-      <pubDate>Thu, 04 Jan 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signa债权人名单确认更多基因库和储蓄银行</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/signa-glaubigerliste-identifiziert-weitere-genobanken-sparkasse</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/signa-glaubigerliste-identifiziert-weitere-genobanken-sparkasse</guid>
-      <pubDate>Thu, 04 Jan 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国家庭保险业严重参与西格纳浮动收益股权证券</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-03/deutsche-versicherer-bei-signa-genussscheinen-stark-exponiert</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-03/deutsche-versicherer-bei-signa-genussscheinen-stark-exponiert</guid>
-      <pubDate>Thu, 04 Jan 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日经 225 指数在美联储观点及日本地震的影响下，首个交易日出现下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/nikkei-225-falls-on-first-trading-day-on-fed-view-japan-quake</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/nikkei-225-falls-on-first-trading-day-on-fed-view-japan-quake</guid>
-      <pubDate>Thu, 04 Jan 2024 06:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>利比亚停产和中东袭击事件致使石油连续第二天上涨</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/latest-oil-market-news-and-analysis-for-jan-4</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/latest-oil-market-news-and-analysis-for-jan-4</guid>
-      <pubDate>Thu, 04 Jan 2024 06:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国技术前景吸引创纪录外国投资</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/south-korea-draws-record-foreign-investment-on-tech-prospects</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/south-korea-draws-record-foreign-investment-on-tech-prospects</guid>
-      <pubDate>Thu, 04 Jan 2024 06:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠誉下调中国不良资产管理公司评级，因国家支持减弱</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/china-bad-debt-managers-cut-by-fitch-on-weaker-state-support</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/china-bad-debt-managers-cut-by-fitch-on-weaker-state-support</guid>
-      <pubDate>Thu, 04 Jan 2024 06:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>非洲联盟主席呼吁埃塞俄比亚、索马里“保持冷静”</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/african-union-chief-calls-for-calm-in-ethiopia-somalia-spat</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/african-union-chief-calls-for-calm-in-ethiopia-somalia-spat</guid>
-      <pubDate>Thu, 04 Jan 2024 06:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>阴郁情绪：彭博公开赛，欧洲版</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-01-04/dour-mood-the-bloomberg-open-europe-edition</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-01-04/dour-mood-the-bloomberg-open-europe-edition</guid>
-      <pubDate>Thu, 04 Jan 2024 06:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开启您新的一天需要了解的五件事</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-01-04/stock-markets-today-fed-rates-war-in-mideast-magnificent-seven-china-easing</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-01-04/stock-markets-today-fed-rates-war-in-mideast-magnificent-seven-china-easing</guid>
-      <pubDate>Thu, 04 Jan 2024 06:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃塞俄比亚与索马里兰签署红海港口协议，索马里如坐针毡</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/why-ethiopia-s-red-sea-port-deal-with-somaliland-has-somalia-on-edge</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/why-ethiopia-s-red-sea-port-deal-with-somaliland-has-somalia-on-edge</guid>
-      <pubDate>Thu, 04 Jan 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本为寻找地震幸存者做最后努力</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/japan-makes-last-ditch-effort-to-find-trapped-quake-survivors</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/japan-makes-last-ditch-effort-to-find-trapped-quake-survivors</guid>
-      <pubDate>Thu, 04 Jan 2024 05:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2020年首次年度收益后，印度债券前景一片光明</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/stars-align-for-india-bonds-after-first-yearly-gain-since-2020</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/stars-align-for-india-bonds-after-first-yearly-gain-since-2020</guid>
-      <pubDate>Thu, 04 Jan 2024 05:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国、美联储和选举：2024 年影响亚洲股市的三大因素</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-03/china-fed-and-elections-what-will-move-asian-stocks-in-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-03/china-fed-and-elections-what-will-move-asian-stocks-in-2024</guid>
-      <pubDate>Thu, 04 Jan 2024 05:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>印尼财务收紧，计划加大债券规模并提前发行</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-03/indonesia-eyes-higher-early-debt-sales-as-tighter-finances-loom</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-03/indonesia-eyes-higher-early-debt-sales-as-tighter-finances-loom</guid>
-      <pubDate>Thu, 04 Jan 2024 05:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>向债权人施压要求推出债务计划后，韩国 TaeYoung 股票下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/korea-s-taeyoung-slides-after-top-creditor-presses-for-debt-plan</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/korea-s-taeyoung-slides-after-top-creditor-presses-for-debt-plan</guid>
-      <pubDate>Thu, 04 Jan 2024 05:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>野村证券将为年轻经纪人提供 16% 的加薪</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/nomura-will-lift-pay-by-16-for-younger-brokerage-staffers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/nomura-will-lift-pay-by-16-for-younger-brokerage-staffers</guid>
-      <pubDate>Thu, 04 Jan 2024 05:05:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>“金发姑娘”令市场进退两难</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-01-04/goldilocks-economy-has-markets-coming-and-going-for-2024</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-01-04/goldilocks-economy-has-markets-coming-and-going-for-2024</guid>
-      <pubDate>Thu, 04 Jan 2024 05:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>这五个潜在麻烦点可能令全球经济脱轨</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/2024-global-economic-indicators-include-us-unemployment-china-real-estate</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/2024-global-economic-indicators-include-us-unemployment-china-real-estate</guid>
-      <pubDate>Thu, 04 Jan 2024 05:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴黎奥运会将展示标志性地标和一项新运动</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/2024-paris-olympics-to-introduce-breakdancing-showcase-eiffel-tower</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/2024-paris-olympics-to-introduce-breakdancing-showcase-eiffel-tower</guid>
-      <pubDate>Thu, 04 Jan 2024 05:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>硅谷初创企业获得的资金创 2019 年以来最糟</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/silicon-valley-vc-startup-funding-last-year-worst-since-2019</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/silicon-valley-vc-startup-funding-last-year-worst-since-2019</guid>
-      <pubDate>Thu, 04 Jan 2024 05:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴黎巅峰？马克龙 2024 年软实力挑战</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-01-04/macron-s-soft-power-challenge-extends-beyond-paris-olympics</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-01-04/macron-s-soft-power-challenge-extends-beyond-paris-olympics</guid>
-      <pubDate>Thu, 04 Jan 2024 05:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国地方议会正陷入财政危机</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/uk-councils-brace-for-spending-cuts-as-financial-crisis-looms</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/uk-councils-brace-for-spending-cuts-as-financial-crisis-looms</guid>
-      <pubDate>Thu, 04 Jan 2024 05:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>胡塞组织是伊朗迄今最具实力的代理人</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-01-04/not-hamas-or-hezbollah-the-houthis-are-now-iran-s-most-potent-proxy</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-01-04/not-hamas-or-hezbollah-the-houthis-are-now-iran-s-most-potent-proxy</guid>
-      <pubDate>Thu, 04 Jan 2024 05:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街前景黯淡之际，Cathie Wood买入特斯拉股票</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/cathie-wood-nibbling-back-into-tesla-as-wall-street-s-view-dims</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/cathie-wood-nibbling-back-into-tesla-as-wall-street-s-view-dims</guid>
-      <pubDate>Thu, 04 Jan 2024 04:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-04/hong-kong-bars-sit-empty-as-residents-make-record-8-million-visits-to-china</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-04/hong-kong-bars-sit-empty-as-residents-make-record-8-million-visits-to-china</guid>
-      <pubDate>Thu, 04 Jan 2024 04:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
