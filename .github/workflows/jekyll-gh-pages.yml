@@ -18,10 +18,25 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+
 jobs:
+
+  # Cleanup job
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - name: Delete deployment
+        uses: strumwolf/delete-deployment-environment@v2.3.0
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
+          environment: github-pages
+          onlyRemoveDeployments: true
+          
   # Build job
   build:
     runs-on: ubuntu-latest
+    needs: cleanup
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,19 +49,6 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        
-  # Cleanup job
-  cleanup:
-    runs-on: ubuntu-latest
-    permissions: write-all
-    needs: build
-    steps:
-      - name: Delete deployment
-        uses: strumwolf/delete-deployment-environment@v2.3.0
-        with:
-          token: ${{ secrets.WORK_TOKEN }}
-          environment: github-pages
-          onlyRemoveDeployments: true
 
   # Deployment job
   deploy:
@@ -54,7 +56,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: cleanup
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
