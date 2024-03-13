@@ -27,7 +27,7 @@ jobs:
     permissions: write-all
     steps:
       - name: Delete deployment
-        uses: strumwolf/delete-deployment-environment@v2.3.0
+        uses: strumwolf/delete-deployment-environment@v3.0.0
         with:
           token: ${{ secrets.WORK_TOKEN }}
           environment: github-pages
