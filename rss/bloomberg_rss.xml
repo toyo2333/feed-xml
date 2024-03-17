@@ -4,9 +4,30 @@
     <title>Bloomberg - News</title>
     <link>https://www.bloomberg.com/feeds/sitemap_news.xml</link>
     <description>Bloomberg - News - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 17 Mar 2024 00:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 06:10:56 GMT</lastBuildDate>
     <item>
-      <title>据《华尔街日报》报道，由瑞安·雷诺兹资助的Nuvei和Advent接近达成收购协议</title>
+      <title>加密货币专家、全球利率节、苹果人工智能：周日亚洲简报</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-17/how-to-be-a-crypto-expert-apple-s-ai-riddle-boj-rate-decision-asia-briefing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-17/how-to-be-a-crypto-expert-apple-s-ai-riddle-boj-rate-decision-asia-briefing</guid>
+      <pubDate>Sun, 17 Mar 2024 02:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本 4 万亿美元离岸基金将无视日本央行首次加息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-17/japan-s-4-trillion-to-stay-offshore-after-boj-rate-hike</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-17/japan-s-4-trillion-to-stay-offshore-after-boj-rate-hike</guid>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普威胁对中国企业生产的墨西哥产汽车征收 100% 关税</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-16/trump-threatens-100-tariffs-on-mexican-made-cars-by-china-firms</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-16/trump-threatens-100-tariffs-on-mexican-made-cars-by-china-firms</guid>
+      <pubDate>Sat, 16 Mar 2024 22:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街日报》：瑞安-雷诺兹支持的 Nuvei 公司与 Advent 公司接近达成收购协议</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-16/ryan-reynolds-backed-nuvei-nears-buyout-deal-with-advent-wsj</link>
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-16/ryan-reynolds-backed-nuvei-nears-buyout-deal-with-advent-wsj</guid>
@@ -263,27 +284,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-16/boj-to-lift-short-term-rate-to-0-0-1-range-on-tuesday-kyodo</guid>
       <pubDate>Sat, 16 Mar 2024 11:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪拜酋长表示，Nakheel、Meydan 将成为迪拜控股公司的一部分</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-16/nakheel-meydan-set-to-become-part-of-dubai-holding-ruler-says</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-16/nakheel-meydan-set-to-become-part-of-dubai-holding-ruler-says</guid>
-      <pubDate>Sat, 16 Mar 2024 11:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲佐领导下的斯洛伐克向俄罗斯倾斜</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-03-16/under-robert-fico-slovakia-tilts-toward-russia</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-03-16/under-robert-fico-slovakia-tilts-toward-russia</guid>
-      <pubDate>Sat, 16 Mar 2024 11:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋为何向埃及注资 350 亿美元？</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-16/what-uae-s-35-billion-investment-in-egypt-means-odd-lots-podcast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-16/what-uae-s-35-billion-investment-in-egypt-means-odd-lots-podcast</guid>
-      <pubDate>Sat, 16 Mar 2024 11:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
